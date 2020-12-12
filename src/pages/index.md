@@ -7,7 +7,8 @@ sections:
     image: images/5.jpg
     content: >-
       True Stoic wisdom was somewhere lost in translation. This blog attempts to
-      re-instate that wisdom with better tools.
+      re-instate that wisdom with better modern tools of thinking. Here you'll
+      find all the tools you need for a better life.
     actions: []
   - section_id: features
     type: section_grid
