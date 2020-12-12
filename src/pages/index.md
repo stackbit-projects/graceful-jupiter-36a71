@@ -8,10 +8,7 @@ sections:
     content: >-
       True Stoic wisdom was somewhere lost in translation. This blog attempts to
       re-instate that wisdom with better tools.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
