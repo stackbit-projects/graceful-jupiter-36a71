@@ -79,7 +79,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "logo_img": "images/logo.png"
     },
     "footer": {
         "content": "&copy; Stackbit-Libris. All rights reserved.",
