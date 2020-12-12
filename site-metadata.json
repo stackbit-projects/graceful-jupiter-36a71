@@ -79,8 +79,7 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ],
-        "logo_img": "images/cool-goat.png"
+        ]
     },
     "footer": {
         "content": "&copy; Stackbit-Libris. All rights reserved.",
