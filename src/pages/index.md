@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Everything you need to know about '
+    title: Stoicism for the 21st Century
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
