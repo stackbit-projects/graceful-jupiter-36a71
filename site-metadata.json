@@ -29,7 +29,6 @@
     },
     "header": {
         "title": "Libris",
-        "logo_img": "images/stoicism-logo.png",
         "has_nav": true,
         "nav_links": [
             {
