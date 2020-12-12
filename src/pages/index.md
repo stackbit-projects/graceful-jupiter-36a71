@@ -7,8 +7,8 @@ sections:
     image: images/5.jpg
     content: >-
       True Stoic wisdom was somewhere lost in translation. This blog attempts to
-      re-instate that wisdom with better, modern tools of thinking. This blog is
-      complete in itself, you're encouraged to explore.
+      re-instate that wisdom with better, more modern tools of thinking. This
+      blog is complete in itself, all you need to do is explore.
 
 
       > “Waste no more time arguing what a good man should be. Be
